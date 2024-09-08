@@ -1,1 +1,27 @@
 localhost:~# grep '.*' /etc/passwd | cut -d: -f1 | sort
+
+Результат:
+adm
+at
+bin cron
+-cyrus
+daemon
+dhcp
+ftp
+games
+guest halt 1p
+mail
+man
+news
+nobody
+ntp
+operator
+postmaster
+root
+shutdown
+smmsp squid sshd
+svn
+sync
+uucp
+vpopmail
+xfs
