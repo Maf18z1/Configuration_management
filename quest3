@@ -1,0 +1,25 @@
+В командной строке:
+nano banner.sh
+
+В файле:
+#!/bin/bash
+
+text=$*
+length=${#text}
+
+for i in $(seq 1 $((length + 2))); do
+    line+="-"
+done
+
+echo "+${line}+"
+echo "| ${text} |"
+echo "+${line}+"
+
+В командной строке:
+chmod +x banner.sh
+./banner.sh "Hello from RTU MIREA!"
+
+Результат:
++-----------------------+
+| Hello from RTU MIREA! |
++-----------------------+
