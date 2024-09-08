@@ -1,0 +1,8 @@
+#!/bin/bash
+
+file="$1"
+
+id=$(grep -o -E '\b[a-zA-Z]*\b' "$file" | sort -u)
+
+echo "Идентификаторы:"
+echo "$id"
