@@ -5,4 +5,6 @@
 
 Решение:
 
+localhost:~# grep '.*' /etc/passwd | cut -d: -f1 | sort
+
 ![image](https://github.com/user-attachments/assets/b6989411-5b23-436d-b100-76b57abc670e)
