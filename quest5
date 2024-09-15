@@ -1,9 +1,0 @@
-#!/bin/bash
-
-file=$1
-
-chmod 755 "./$file"
-
-sudo cp "$file" /usr/local/bin/
-
-echo "Программа '$file' сохранена в usr/local/bin/, права были выданы"
