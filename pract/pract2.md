@@ -1,4 +1,4 @@
-Практическое занятие №2. Менеджеры пакетов
+![image](https://github.com/user-attachments/assets/4beddb4e-589c-44ea-9967-b272f31f00bd)![image](https://github.com/user-attachments/assets/fe4707f3-3d66-45ba-a549-2324f3461f11)![image](https://github.com/user-attachments/assets/ade01418-6062-40b1-a865-771d1abf0d71)![image](https://github.com/user-attachments/assets/2ec438b6-dfed-45b8-9715-84af35701973)![image](https://github.com/user-attachments/assets/6c14ceb1-016d-4e56-af9b-62d9303aa24d)Практическое занятие №2. Менеджеры пакетов
 Задача 1: Вывести служебную информацию о пакете matplotlib (Python).
 
 pip show matplotlib
@@ -25,5 +25,22 @@ npm view express dependencies
 
 ![image](https://github.com/user-attachments/assets/aa2d6b53-9a21-4f27-8187-92bb8162ad4c)
 
-Задача 4: 
+Задача 4: Решить на MiniZinc задачу о счастливых билетах. 
+Добавить ограничение на то, что все цифры билета должны быть различными (подсказка: используйте all_different). 
+Найти минимальное решение для суммы 3 цифр.
 
+![image](https://github.com/user-attachments/assets/3623bdb1-7db1-4ac9-b432-e5d7d7e41e49)
+
+![image](https://github.com/user-attachments/assets/d88026b4-98e6-4f49-9907-f66c91b5c29e)
+
+Задача 5: Решить на MiniZinc задачу о зависимостях пакетов для рисунка, приведенного ниже.
+
+![image](https://github.com/user-attachments/assets/b6329179-fba7-4ab9-9f45-c4a38dcffd10)
+
+![image](https://github.com/user-attachments/assets/2ce12e92-81df-4cbc-a345-53cb5828b6c8)
+
+![image](https://github.com/user-attachments/assets/06159476-ba10-4cb5-944c-5d9c94aab5fe)
+
+Задача 6: Решить на MiniZinc задачу о зависимостях пакетов для следующих данных (фото)
+
+![image](https://github.com/user-attachments/assets/aa13a39c-86c7-424b-8f7e-63db1dd3f3c3)
