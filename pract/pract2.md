@@ -45,3 +45,4 @@ npm view express dependencies
 Задача 6: Решить на MiniZinc задачу о зависимостях пакетов для следующих данных (фото)
 
 ![image](https://github.com/user-attachments/assets/aa13a39c-86c7-424b-8f7e-63db1dd3f3c3)
+
