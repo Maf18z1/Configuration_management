@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4beddb4e-589c-44ea-9967-b272f31f00bd)![image](https://github.com/user-attachments/assets/fe4707f3-3d66-45ba-a549-2324f3461f11)![image](https://github.com/user-attachments/assets/ade01418-6062-40b1-a865-771d1abf0d71)![image](https://github.com/user-attachments/assets/2ec438b6-dfed-45b8-9715-84af35701973)![image](https://github.com/user-attachments/assets/6c14ceb1-016d-4e56-af9b-62d9303aa24d)Практическое занятие №2. Менеджеры пакетов
+Практическое занятие №2. Менеджеры пакетов
 Задача 1: Вывести служебную информацию о пакете matplotlib (Python).
 
 pip show matplotlib
