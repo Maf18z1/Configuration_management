@@ -46,3 +46,8 @@ npm view express dependencies
 
 ![image](https://github.com/user-attachments/assets/aa13a39c-86c7-424b-8f7e-63db1dd3f3c3)
 
+![image](https://github.com/user-attachments/assets/0d5e7189-5d80-47ce-bc53-8d0367a34cc4)
+
+![image](https://github.com/user-attachments/assets/18c93801-29b7-4c7c-af7a-7f54dcc33198)
+
+Задача 7: 
