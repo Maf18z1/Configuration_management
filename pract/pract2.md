@@ -13,6 +13,17 @@ npm show express
 
 ![image](https://github.com/user-attachments/assets/6a565678-b941-4ae3-b888-9bde51ddbe5f)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f789a604-5d17-4a7f-b4b1-fd5ccc0bfbc1)
 
 Задача 3: Сформировать graphviz-код и получить изображения зависимостей matplotlib и express.
+
+pipdeptree -p matplotlib
+
+![image](https://github.com/user-attachments/assets/11130811-b1da-4cdb-9b02-60d78d7a5713)
+
+npm view express dependencies
+
+![image](https://github.com/user-attachments/assets/aa2d6b53-9a21-4f27-8187-92bb8162ad4c)
+
+Задача 4: 
+
