@@ -9,3 +9,10 @@ pip show matplotlib
 
 Задача 2: Вывести служебную информацию о пакете express (JavaScript).
 
+npm show express
+
+![image](https://github.com/user-attachments/assets/6a565678-b941-4ae3-b888-9bde51ddbe5f)
+
+![Uploading image.png…]()
+
+Задача 3: Сформировать graphviz-код и получить изображения зависимостей matplotlib и express.
