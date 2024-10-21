@@ -19,3 +19,12 @@
 ![image](https://github.com/user-attachments/assets/553ef5c3-40a3-4afa-920f-4c43a892a26c)
 
 ![image](https://github.com/user-attachments/assets/3f6fe928-9acf-4be6-ad34-43c90095cd52)
+
+Задание 3: Для решения дальнейших задач потребуется программа на Питоне, представленная ниже.
+
+Реализовать грамматики, описывающие следующие языки (для каждого решения привести БНФ). Код решения должен содержаться в переменной BNF
+
+Язык нулей и единиц.
+
+![image](https://github.com/user-attachments/assets/306b4351-4f1b-4c1e-b8c4-3dd863b2e3ac)
+
