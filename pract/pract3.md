@@ -29,3 +29,14 @@
 ![image](https://github.com/user-attachments/assets/306b4351-4f1b-4c1e-b8c4-3dd863b2e3ac)
 
 ![image](https://github.com/user-attachments/assets/fd15d99c-55dd-4bb8-a880-2c5321298744)
+
+Задание 4: Язык правильно расставленных скобок двух видов.
+
+![image](https://github.com/user-attachments/assets/c4ec1876-7f94-4a7f-95b5-dbc6e95389ef)
+
+![image](https://github.com/user-attachments/assets/29f616d1-b19e-408c-b08f-da4b017e3fec)
+
+Задание 5: Язык выражений алгебры логики.
+
+![image](https://github.com/user-attachments/assets/22f67f6f-1bf9-4b6e-8cd0-47d54736ce47)
+
